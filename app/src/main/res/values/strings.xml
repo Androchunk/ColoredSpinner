@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColoredSpinner</string>
+    <string-array name="Spinner_Items">
+        <item>Spinner Item One</item>
+        <item>Spinner Item Two</item>
+        <item>Spinner Item Three</item>
+        <item>Spinner Item Four</item>
+        <item>Spinner Item Five</item>
+    </string-array>
+</resources>
